@@ -53,4 +53,4 @@ just keep the incoming changes that are not made by you and keep a current chang
 
 Yup thats it
 
-if you need any help dm at discord **Yendey#5339**
+if you need any help dm me at discord **Yendey#5339**
