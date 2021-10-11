@@ -401,6 +401,17 @@ class TitleState extends MusicBeatState
 		}
 	}
 
+	function presentText(text:String, ?offset:Float = 0)
+		{
+			if(textGroup != null) {
+				var coolText:Alphabet = new Alphabet(0, 0, text, true, false);
+				coolText.screenCenter(X);
+				coolText.y += (textGroup.length * 58) + 200 + offset; //60
+				credGroup.add(coolText);
+				textGroup.add(coolText);
+			}
+		}
+
 	function deleteCoolText()
 	{
 		while (textGroup.members.length > 0)
@@ -434,9 +445,9 @@ class TitleState extends MusicBeatState
 					createCoolText(['Friday Night Fluffin by'], 45);
 				// credTextShit.visible = true;
 				case 3:
-					addMoreText('Sourcy', 45);
-					addMoreText('and', 45);
-					addMoreText('The Fluffin Team', 45);
+					presentText('Sourcy', 45);
+					presentText('and', 45);
+					presentText('The Fluffin Team', 45);
 				// credTextShit.text += '\npresent...';
 				// credTextShit.addText();
 				case 4:
