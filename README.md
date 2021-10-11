@@ -30,6 +30,8 @@ add a commit name (the text tab thing next your profile)
 
 and click commit ***(Warning: Just make sure your changes are finished and the source code is Up to date. if you want to know how to make source code up to date go further this page)***
 
+and... push to origin
+
 ## How to Update Source Code?
 
 ***(Warning again: Make a backup of repo folder before doing this. just in case if Github client go oopsies)***
