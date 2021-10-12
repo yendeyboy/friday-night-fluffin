@@ -184,7 +184,7 @@ class MainMenuState extends MusicBeatState
 			{
 				if (optionShit[curSelected] == 'donate')
 				{
-					CoolUtil.browserLoad('https://ninja-muffin24.itch.io/funkin');
+					CoolUtil.browserLoad('https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=ZJL3MNGZF8UYY');
 				}
 				else
 				{
