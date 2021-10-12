@@ -1981,6 +1981,21 @@ class PlayState extends MusicBeatState
 					PauseSubState.transCamera = camOther;
 					openSubState(new PauseSubState(boyfriend.getScreenPosition().x, boyfriend.getScreenPosition().y));
 				}
+
+				if (controls.PAUSE && startedCountdown && canPause)
+					{
+						persistentUpdate = false;
+						persistentDraw = true;
+						paused = true;
+			
+						//Scary
+						if (FlxG.random.bool(4))
+						{
+							FlxG.switchState(new Guilty());
+						}
+						else
+							openSubState(new PauseSubState(boyfriend.getScreenPosition().x, boyfriend.getScreenPosition().y));
+					}
 			
 				#if desktop
 				DiscordClient.changePresence(detailsPausedText, SONG.song + " (" + storyDifficultyText + ")", iconP2.getCharacter());
