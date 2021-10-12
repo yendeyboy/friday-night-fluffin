@@ -2,7 +2,7 @@ package;
 
 #if desktop
 import Discord.DiscordClient;
-#end
+#end //blem
 import flixel.FlxG;
 import flixel.FlxObject;
 import flixel.FlxSprite;
