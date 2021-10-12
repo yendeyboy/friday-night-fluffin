@@ -23,8 +23,24 @@ class CreditsState extends MusicBeatState
 	private var grpOptions:FlxTypedGroup<Alphabet>;
 	private var iconArray:Array<AttachedSprite> = [];
 
-	private static var creditsStuff:Array<Dynamic> = [ //Name - Icon name - Description - Link - BG Color
-		['Psych Engine Team'],
+	private static var creditsStuff:Array<Dynamic> = [ //Name - Icon name - Description - Link - BG Color // man im gonna get alota work
+		['The Fluffin Team'],
+		['Sourcy',		'sourcy',		'Mod Lead of Friday Night Fluffin',					'https://twitter.com/SourceRabbit1',	0xFF0000],
+		['Magma Blood',		'magmablood',		'1st Muscian of Friday Night Fluffin',					'',	0xFFFFFF],
+		['Grape',		'grape',		'1st Programmer of Friday Night Fluffin',					'https://twitter.com/HelloGrape_',	0xb19cd9],
+		['Person.exe',		'person',		'2nd Programmer of Friday Night Fluffin',					'https://www.youtube.com/channel/UCmAI7f48iRxkG2RuFRwL9TQ',	0x808080],
+		['JULSCA',		'julsca',		'2nd Muscian of Friday Night Fluffin',					'https://www.youtube.com/channel/UCx2Q-B1fvlyGukqACV6pUuA',	0x800000],
+		['Sugar',		'sugar',		'Speed Demon Charter of Friday Night Fluffin',					'https://twitter.com/EnhancedSugar',	0xdc143c],
+		['Ditchu',		'ditchu',		'Sprite Artist of Friday Night Fluffin',					'https://twitter.com/DitchuArt',	0xFF92A5],
+		['Sodatax',		'sodatax',		'2nd of Friday Night Fluffin',					'https://twitter.com/sodatax1',	0x9400D3],
+        ['Sylrica',		'sylrica',		'3rd Muscian of Friday Night Fluffin',					'',	0xff006f],
+		['Murasaki',			'murasaki',		'2nd Programmer of Friday Night Fluffin',				'https://www.twitch.tv/fvgf811',		0xFF69B4],
+		['FoodieMellow',		'foodiemellow',		'BG Artist of Friday Night Fluffin',					'https://twitter.com/AishkoHere',	0x7fffd4],
+		['VoltBox',		'voltbox',		'Second Sprite Artist of Friday Night Fluffin',					'https://twitter.com/ArtVoltBox',	0x00FF00],
+		['YendeyBoy',		'yendey',		'3rd Programmer of Friday Night Fluffin',					'https://twitter.com/Yendeyboi',		0xFF6010],
+		['Irondog888',		'irondog',		'2nd Charter of Friday Night Fluffin',					'https://twitter.com/irondoggo888',	0xd6d6d6],
+		[''],
+        ['Psych Engine Team'],
 		['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	0xFFFFDD33],
 		['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',				'https://twitter.com/river_oaken',		0xFFC30085],
 		[''],
