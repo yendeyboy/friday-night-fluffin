@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf8"?>
+<TextureAtlas imagePath="dsp1.png">
+	<!--Created with Sprite Cow and Mura's Hands // Totally not a reference to certain xml file -->
+    <!--RaySprites-->
+	<SubTexture name="1ray" x="141" y="135" width="470" height="529"/>
+    <SubTexture name="2rayangry" x="701" y="124" width="450" height="540"/>
+    <!--RalSprites-->
+    <SubTexture name="3ral" x="1590" y="84" width="680" height="580"/>
+    <SubTexture name="4ral" x="2362" y="84" width="680" height="580"/>
+    <SubTexture name="5ral" x="1590" y="768" width="680" height="580"/>
+    <SubTexture name="6ral" x="2362" y="768" width="680" height="580"/>
+    <SubTexture name="7ral" x="1590" y="1431" width="691" height="577"/>
+    <SubTexture name="8ral" x="2355" y="1430" width="687" height="578"/>
+    <!--NikoSprites-->
+    <SubTexture name="10niko" x="826" y="2455" width="650" height="590"/>
+    <SubTexture name="11niko" x="1590" y="2455" width="650" height="590"/>
+    <SubTexture name="12niko" x="2281" y="2455" width="650" height="590"/>
+    <!--IsabelleSprites-->
+    <SubTexture name="13izz" x="96" y="738" width="570" height="610"/>
+    <SubTexture name="14izz" x="701" y="738" width="573" height="610"/>
+    <SubTexture name="15izz" x="96" y="1398" width="573" height="610"/>
+    <SubTexture name="16izz" x="710" y="1431" width="573" height="610"/>
+    <!--Hatkid-->
+    <SubTexture name="17hat" x="96" y="2315" width="560" height="730"/>
+</TextureAtlas>

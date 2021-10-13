@@ -23,25 +23,8 @@ class CreditsState extends MusicBeatState
 	private var grpOptions:FlxTypedGroup<Alphabet>;
 	private var iconArray:Array<AttachedSprite> = [];
 
-	private static var creditsStuff:Array<Dynamic> = [ //Name - Icon name - Description - Link - BG Color //weird ass black glitch need fixing
-		['The Fluffin Team'],
-		['Sourcy',		'sourcy',		'Mod Lead of Friday Night Fluffin',					'https://twitter.com/SourceRabbit1',	0xFFFF0000],
-		['Magma Blood',		'magmablood',		'1st Muscian of Friday Night Fluffin',					'',	0xFFFFFFFF],
-		['Grape',		'grape',		'1st Programmer of Friday Night Fluffin',					'https://twitter.com/HelloGrape_',	0xFFb19cd9],
-		['Person.exe',		'person',		'2nd Programmer of Friday Night Fluffin',					'https://www.youtube.com/channel/UCmAI7f48iRxkG2RuFRwL9TQ',	0xFF808080],
-		['JULSCA',		'julsca',		'2nd Muscian of Friday Night Fluffin',					'https://www.youtube.com/channel/UCx2Q-B1fvlyGukqACV6pUuA',	0xFF800000],
-		['Sugar',		'sugar',		'Speed Demon Charter of Friday Night Fluffin',					'https://twitter.com/EnhancedSugar',	0xFFdc143c],
-		['Ditchu',		'ditchu',		'Sprite Artist of Friday Night Fluffin',					'https://twitter.com/DitchuArt',	0xFFFF92A5],
-		['Sodatax',		'sodatax',		'2nd of Friday Night Fluffin',					'https://twitter.com/sodatax1',	0xFF9400D3],
-        ['Sylrica',		'sylrica',		'3rd Muscian of Friday Night Fluffin',					'',	0xFFff006f],
-		['Murasaki',			'murasaki',		'2nd Programmer of Friday Night Fluffin',				'https://www.twitch.tv/fvgf811',		0xFFFF69B4],
-		['FoodieMellow',		'foodiemellow',		'BG Artist of Friday Night Fluffin',					'https://twitter.com/AishkoHere',	0xFF7fffd4],
-		['VoltBox',		'voltbox',		'Second Sprite Artist of Friday Night Fluffin',					'https://twitter.com/ArtVoltBox',	0xFF00FF00],
-		['YendeyBoy',		'yendey',		'3rd Programmer of Friday Night Fluffin',					'https://twitter.com/Yendeyboi',		0xFFFF6010],
-		['Irondog888',		'irondog',		'2nd Charter of Friday Night Fluffin',					'https://twitter.com/irondoggo888',	0xFFd6d6d6],
-		['Brow5',		'brow5',		'MP4 Support Guy of Friday Night Fluffin',					'https://www.youtube.com/watch?v=dQw4w9WgXcQ',	0xFF964B00], //grape don't spoil pls :3
-		[''],
-        ['Psych Engine Team'],
+	private static var creditsStuff:Array<Dynamic> = [ //Name - Icon name - Description - Link - BG Color
+		['Psych Engine Team'],
 		['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	0xFFFFDD33],
 		['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',				'https://twitter.com/river_oaken',		0xFFC30085],
 		[''],
@@ -50,7 +33,7 @@ class CreditsState extends MusicBeatState
 		['PolybiusProxy',		'polybiusproxy',	'.MP4 Video Loader Extension',						'https://twitter.com/polybiusproxy',	0xFFE01F32],
 		['gedehari',			'gedehari',			'Chart Editor\'s Sound Waveform base',				'https://twitter.com/gedehari',			0xFFFF9300],
 		['Keoiki',				'keoiki',			'Note Splash Animations',							'https://twitter.com/Keoiki_',			0xFFFFFFFF],
-		['SandPlanet',			'sandplanet',		'Mascot\'s Owner\nMain Supporter of the Engine',		'https://twitter.com/SandPlanetNG',		0xFFD10616],
+		['SandPlanet',			'sandplanet',		'Psych Engine Preacher\nAlso cool guy lol',			'https://twitter.com/SandPlanetNG',		0xFFD10616],
 		['bubba',				'bubba',		'Guest Composer for "Hot Dilf"',	'https://www.youtube.com/channel/UCxQTnLmv0OAS63yzk9pVfaw',	0xFF61536A],
 		[''],
 		["Funkin' Crew"],

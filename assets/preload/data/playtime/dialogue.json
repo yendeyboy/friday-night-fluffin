@@ -1,0 +1,200 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "dsp1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Now, crouch, Niko."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Huh? Why do you ask me to-"
+		},
+		{
+			"speed": 0.65,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": ". . ."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Why am I giving you a piggy back, again?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "The view is nice from here"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "...AND??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I want to feel tall for once!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "...And I only have one mic, so we'll have to share"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Now hush, we have a goat's butt to kick!!"
+		},
+		{
+			"speed": 0.55,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.55,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Well? Should we start or?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Oh yeah, about that-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I don't know how to sing."
+		},
+		{
+			"speed": 0.45,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "How are we supposed to duel him if we-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "SHUSH!! I'M TOO BUSY BLASTING BAD GUYS FOR THAT!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "(...These two are hopeless)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Hey, goat boy!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Teach us how to sing!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "...Are you serious right now?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Got any better ideas then? How about YOU teach me instead??"
+		},
+		{
+			"speed": 0.55,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Well, you caught me there!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "(Teaching them? They want to learn...from me?)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "(Aww!! I love this already! Don't you two worry, professor Ralsei is here to help!)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "(Alright, repeat after me! Aand 1..2..3..!)"
+		}
+	]
+}

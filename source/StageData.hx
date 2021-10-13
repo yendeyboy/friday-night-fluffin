@@ -45,6 +45,9 @@ class StageData {
 					stage = 'school';
 				case 'thorns':
 					stage = 'schoolEvil';
+				case 'dreamland' | 'pancakes':
+					stage = 'space';
+
 				default:
 					stage = 'stage';
 			}
@@ -52,12 +55,7 @@ class StageData {
 			stage = 'stage';
 		}
 
-		var stageFile:StageFile = getStageFile(stage);
-		if(stageFile == null) { //preventing crashes
-			forceNextDirectory = '';
-		} else {
-			forceNextDirectory = stageFile.directory;
-		}
+		forceNextDirectory = getStageFile(stage).directory;
 	}
 
 	public static function getStageFile(stage:String):StageFile {
@@ -68,18 +66,12 @@ class StageData {
 		var modPath:String = Paths.modFolders('stages/' + stage + '.json');
 		if(FileSystem.exists(modPath)) {
 			rawJson = File.getContent(modPath);
-		} else if(FileSystem.exists(path)) {
+		} else {
 			rawJson = File.getContent(path);
 		}
 		#else
-		if(Assets.exists(path)) {
-			rawJson = Assets.getText(path);
-		}
+		rawJson = Assets.getText(path);
 		#end
-		else
-		{
-			return null;
-		}
 		return cast Json.parse(rawJson);
 	}
 }

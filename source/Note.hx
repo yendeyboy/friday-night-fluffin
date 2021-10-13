@@ -64,9 +64,6 @@ class Note extends FlxSprite
 
 	public var texture(default, set):String = null;
 
-	public var noAnimation:Bool = false;
-	public var hitCausesMiss:Bool = false;
-
 	private function set_texture(value:String):String {
 		if(texture != value) {
 			reloadNote('', value);
@@ -90,14 +87,6 @@ class Note extends FlxSprite
 					colorSwap.hue = 0;
 					colorSwap.saturation = 0;
 					colorSwap.brightness = 0;
-					if(isSustainNote) {
-						missHealth = 0.1;
-					} else {
-						missHealth = 0.3;
-					}
-					hitCausesMiss = true;
-				case 'No Animation':
-					noAnimation = true;
 			}
 			noteType = value;
 		}
@@ -208,7 +197,6 @@ class Note extends FlxSprite
 		} else if(!isSustainNote) {
 			earlyHitMult = 1;
 		}
-		x += offsetX;
 	}
 
 	function reloadNote(?prefix:String = '', ?texture:String = '', ?suffix:String = '') {
@@ -236,15 +224,15 @@ class Note extends FlxSprite
 		var blahblah:String = arraySkin.join('/');
 		if(PlayState.isPixelStage) {
 			if(isSustainNote) {
-				loadGraphic(Paths.image('pixelUI/' + blahblah + 'ENDS'));
+				loadGraphic(Paths.image('weeb/pixelUI/' + blahblah + 'ENDS'));
 				width = width / 4;
 				height = height / 2;
-				loadGraphic(Paths.image('pixelUI/' + blahblah + 'ENDS'), true, Math.floor(width), Math.floor(height));
+				loadGraphic(Paths.image('weeb/pixelUI/' + blahblah + 'ENDS'), true, Math.floor(width), Math.floor(height));
 			} else {
-				loadGraphic(Paths.image('pixelUI/' + blahblah));
+				loadGraphic(Paths.image('weeb/pixelUI/' + blahblah));
 				width = width / 4;
 				height = height / 5;
-				loadGraphic(Paths.image('pixelUI/' + blahblah), true, Math.floor(width), Math.floor(height));
+				loadGraphic(Paths.image('weeb/pixelUI/' + blahblah), true, Math.floor(width), Math.floor(height));
 			}
 			setGraphicSize(Std.int(width * PlayState.daPixelZoom));
 			loadPixelNoteAnims();

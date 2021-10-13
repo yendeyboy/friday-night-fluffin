@@ -246,7 +246,7 @@ class DialogueBoxPsych extends FlxSpriteGroup
 			char.updateHitbox();
 			char.antialiasing = ClientPrefs.globalAntialiasing;
 			char.scrollFactor.set();
-			char.alpha = 0.00001;
+			char.alpha = 0;
 			add(char);
 
 			var saveY:Bool = false;
@@ -274,15 +274,8 @@ class DialogueBoxPsych extends FlxSpriteGroup
 	public static var DEFAULT_TEXT_Y = 430;
 	var scrollSpeed = 4500;
 	var daText:Alphabet = null;
-	var ignoreThisFrame:Bool = true; //First frame is reserved for loading dialogue images
 	override function update(elapsed:Float)
 	{
-		if(ignoreThisFrame) {
-			ignoreThisFrame = false;
-			super.update(elapsed);
-			return;
-		}
-
 		if(!dialogueEnded) {
 			bgFade.alpha += 0.5 * elapsed;
 			if(bgFade.alpha > 0.5) bgFade.alpha = 0.5;
@@ -367,7 +360,7 @@ class DialogueBoxPsych extends FlxSpriteGroup
 									if(char.x > char.startingPos - offsetPos) char.x = char.startingPos - offsetPos;
 							}
 							char.alpha -= 3 * elapsed;
-							if(char.alpha < 0.00001) char.alpha = 0.00001;
+							if(char.alpha < 0) char.alpha = 0;
 						} else {
 							switch(char.jsonFile.dialogue_pos) {
 								case 'left':

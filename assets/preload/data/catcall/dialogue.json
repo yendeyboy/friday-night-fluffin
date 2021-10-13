@@ -1,0 +1,165 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "dsp1",
+			"boxState": "normal",
+			"expression": "Ray",
+			"text": "Welcome, everyone, to our first broadcast of SINGING DREAMS!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dsp1",
+			"boxState": "normal",
+			"expression": "RalStars",
+			"text": "(Woaaah...what a beatiful stage)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dsp1",
+			"boxState": "normal",
+			"expression": "RalStars",
+			"text": "(It's like I'm there!)"
+		},
+		{
+			"speed": 0.55,
+			"portrait": "dsp1",
+			"boxState": "normal",
+			"expression": "RalStars",
+			"text": ". . ."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dsp1",
+			"boxState": "normal",
+			"expression": "RalWat",
+			"text": "(..Wait a minute)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dsp1",
+			"boxState": "normal",
+			"expression": "Ray",
+			"text": "I'm Raymond, your host! We have a lot of surprises tonight."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dsp1",
+			"boxState": "normal",
+			"expression": "Ray",
+			"text": "That first surprise being, WE HAVE NO STAFF!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dsp1",
+			"boxState": "normal",
+			"expression": "Ray",
+			"text": "We had a little incident with our food delivery..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dsp1",
+			"boxState": "normal",
+			"expression": "Ray",
+			"text": "...Now everyone's puking endlessly!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dsp1",
+			"boxState": "normal",
+			"expression": "RalWat",
+			"text": "(Why is he so enthusiastic about that??)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dsp1",
+			"boxState": "normal",
+			"expression": "Ray",
+			"text": "Alas, we are changing plans, behold!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dsp1",
+			"boxState": "normal",
+			"expression": "Ray",
+			"text": "A new singer to compensate for my staff's incompetence!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dsp1",
+			"boxState": "normal",
+			"expression": "Ray",
+			"text": "Please welcome our (Totally not improvised) guest..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dsp1",
+			"boxState": "normal",
+			"expression": "Ray",
+			"text": "...Whoever this green alien is!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dsp1",
+			"boxState": "normal",
+			"expression": "RalWat",
+			"text": "(Panic? Check, wishes to randomly explode? Check... )"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dsp1",
+			"boxState": "normal",
+			"expression": "Ray",
+			"text": "You are a quiet one, aren't you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dsp1",
+			"boxState": "normal",
+			"expression": "Ray",
+			"text": "Relaaax, crisp! You'll be fine, what's the worst thing that could happen?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dsp1",
+			"boxState": "normal",
+			"expression": "Ray",
+			"text": "Being ridiculed in front of our growing 40,000 spectators?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dsp1",
+			"boxState": "normal",
+			"expression": "Ray",
+			"text": "Oh, 50,000 now!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dsp1",
+			"boxState": "normal",
+			"expression": "Ray",
+			"text": "(The audience counter is just a backwars calculator)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dsp1",
+			"boxState": "normal",
+			"expression": "Ray",
+			"text": "(It seems to be stuck on the number ''3'')"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dsp1",
+			"boxState": "normal",
+			"expression": "Ray",
+			"text": "Just sing anything you like! If you suck, well..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dsp1",
+			"boxState": "normal",
+			"expression": "Ray",
+			"text": "...At least you'll help my career grow! Isn't that great?"
+		}
+	]
+}
