@@ -39,8 +39,8 @@ class CreditsState extends MusicBeatState
 		['VoltBox',		'voltbox',		'Second Sprite Artist of Friday Night Fluffin',					'https://twitter.com/ArtVoltBox',	0xFF00FF00],
 		['YendeyBoy',		'yendey',		'3rd Programmer of Friday Night Fluffin',					'https://twitter.com/Yendeyboi',		0xFFFF6010],
 		['Irondog888',		'irondog',		'2nd Charter of Friday Night Fluffin',					'https://twitter.com/irondoggo888',	0xFFd6d6d6],
-		['Brow5',		'brow5',		'MP4 Support Guy of Friday Night Fluffin',					'https://gamebanana.com/members/1960378',	0xFF964B00],
-		['Discord Lmao',		'discord',		'press enter now',					'https://www.youtube.com/watch?v=dQw4w9WgXcQ',	0xFF964B00],  
+		['Brow5',		'brow5',		'Multiple .mp4 Support Guy of Friday Night Fluffin',					'https://gamebanana.com/members/1960378',	0xFF964B00],
+		['Discord Lmao',		'discord',		'press enter now',					'https://www.youtube.com/watch?v=dQw4w9WgXcQ',	0xFF5865F2],  
 		[''],
         ['Psych Engine Team'],
 		['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	0xFFFFDD33],
@@ -166,7 +166,7 @@ class CreditsState extends MusicBeatState
 				colorTween.cancel();
 			}
 			intendedColor = newColor;
-			colorTween = FlxTween.color(bg, 1, bg.color, intendedColor, {
+			colorTween = FlxTween.color(bg, 0.5, bg.color, intendedColor, { 
 				onComplete: function(twn:FlxTween) {
 					colorTween = null;
 				}
