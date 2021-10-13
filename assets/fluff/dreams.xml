@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dreams.png"><SubTexture name="dreams idle0000" x="0" y="0" width="315" height="165" frameX="0" frameY="0" frameWidth="315" frameHeight="165" />
+<SubTexture name="dreams idle0001" x="315" y="0" width="315" height="165" frameX="0" frameY="0" frameWidth="315" frameHeight="165" />
+<SubTexture name="dreams idle0002" x="630" y="0" width="315" height="165" frameX="0" frameY="0" frameWidth="315" frameHeight="165" />
+<SubTexture name="dreams idle0003" x="945" y="0" width="315" height="165" frameX="0" frameY="0" frameWidth="315" frameHeight="165" />
+<SubTexture name="dreams idle0004" x="0" y="165" width="315" height="165" frameX="0" frameY="0" frameWidth="315" frameHeight="165" />
+<SubTexture name="dreams idle0005" x="315" y="165" width="315" height="165" frameX="0" frameY="0" frameWidth="315" frameHeight="165" />
+<SubTexture name="dreams idle0006" x="630" y="165" width="315" height="165" frameX="0" frameY="0" frameWidth="315" frameHeight="165" />
+<SubTexture name="dreams idle0007" x="945" y="165" width="315" height="165" frameX="0" frameY="0" frameWidth="315" frameHeight="165" />
+<SubTexture name="dreams idle0008" x="0" y="330" width="315" height="165" frameX="0" frameY="0" frameWidth="315" frameHeight="165" />
+<SubTexture name="dreams idle0009" x="315" y="330" width="315" height="165" frameX="0" frameY="0" frameWidth="315" frameHeight="165" />
+<SubTexture name="dreams idle0010" x="630" y="330" width="315" height="165" frameX="0" frameY="0" frameWidth="315" frameHeight="165" />
+<SubTexture name="dreams idle0011" x="945" y="330" width="315" height="165" frameX="0" frameY="0" frameWidth="315" frameHeight="165" />
+<SubTexture name="dreams idle0012" x="0" y="495" width="315" height="165" frameX="0" frameY="0" frameWidth="315" frameHeight="165" />
+<SubTexture name="dreams idle0013" x="315" y="495" width="315" height="165" frameX="0" frameY="0" frameWidth="315" frameHeight="165" />
+<SubTexture name="dreams idle0014" x="630" y="495" width="315" height="165" frameX="0" frameY="0" frameWidth="315" frameHeight="165" />
+<SubTexture name="dreams idle0015" x="945" y="495" width="315" height="165" frameX="0" frameY="0" frameWidth="315" frameHeight="165" />
+<SubTexture name="dreams idle0016" x="0" y="660" width="315" height="165" frameX="0" frameY="0" frameWidth="315" frameHeight="165" />
+<SubTexture name="dreams idle0017" x="315" y="660" width="315" height="165" frameX="0" frameY="0" frameWidth="315" frameHeight="165" />
+<SubTexture name="dreams idle0018" x="630" y="660" width="315" height="165" frameX="0" frameY="0" frameWidth="315" frameHeight="165" />
+<SubTexture name="dreams idle0019" x="945" y="660" width="315" height="165" frameX="0" frameY="0" frameWidth="315" frameHeight="165" />
+<SubTexture name="dreams idle0020" x="0" y="825" width="315" height="165" frameX="0" frameY="0" frameWidth="315" frameHeight="165" />
+</TextureAtlas>

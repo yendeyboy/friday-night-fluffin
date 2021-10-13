@@ -479,13 +479,7 @@ class DialogueCharacterEditorState extends MusicBeatState
 
 	var currentGhosts:Int = 0;
 	var lastTab:String = 'Character';
-	var transitioning:Bool = false;
 	override function update(elapsed:Float) {
-		if(transitioning) {
-			super.update(elapsed);
-			return;
-		}
-
 		if(character.animation.curAnim != null) {
 			if(daText.finishedText) {
 				if(character.animationIsLoop()) {
@@ -635,7 +629,6 @@ class DialogueCharacterEditorState extends MusicBeatState
 			if(FlxG.keys.justPressed.ESCAPE) {
 				MusicBeatState.switchState(new editors.MasterEditorMenu());
 				FlxG.sound.playMusic(Paths.music('freakyMenu'), 1);
-				transitioning = true;
 			}
 
 			ghostLoop.setPosition(character.x, character.y);
