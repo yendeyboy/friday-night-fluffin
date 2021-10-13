@@ -1,4 +1,4 @@
-package;
+/*package;
 
 import Sys.sleep;
 import discord_rpc.DiscordRpc;
@@ -38,7 +38,7 @@ class DiscordClient
 		DiscordRpc.presence({
 			details: "In the Menus",
 			state: null,
-			largeImageKey: 'fridaynightfluffin',
+			largeImageKey: 'icon',
 			largeImageText: "Friday Night Fluffin'"
 		});
 	}
@@ -74,7 +74,7 @@ class DiscordClient
 		DiscordRpc.presence({
 			details: details,
 			state: state,
-			largeImageKey: 'fridaynightfluffin',
+			largeImageKey: 'icon',
 			largeImageText: "Friday Night Fluffin'",
 			smallImageKey : smallImageKey,
 			// Obtained times are in milliseconds so they are divided so Discord can use it
