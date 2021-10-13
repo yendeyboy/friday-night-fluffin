@@ -39,6 +39,7 @@ class CreditsState extends MusicBeatState
 		['VoltBox',		'voltbox',		'Second Sprite Artist of Friday Night Fluffin',					'https://twitter.com/ArtVoltBox',	0x00FF00],
 		['YendeyBoy',		'yendey',		'3rd Programmer of Friday Night Fluffin',					'https://twitter.com/Yendeyboi',		0xFF6010],
 		['Irondog888',		'irondog',		'2nd Charter of Friday Night Fluffin',					'https://twitter.com/irondoggo888',	0xd6d6d6],
+		['Brow5',		'brow5',		'MP4 Support Guy of Friday Night Fluffin',					'',	0x964B00],
 		[''],
         ['Psych Engine Team'],
 		['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	0xFFFFDD33],
