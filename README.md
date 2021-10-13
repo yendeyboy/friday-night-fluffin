@@ -42,7 +42,7 @@ click it and wait for a bit
 
 then this is might be the **hard part**
 
-it will gives you error(s) that says if you need to keep the change you or not of a part of a code.
+it might gives you error(s) that says if you need to keep the change you or not of a part of a code.
 
 you have two options
 
