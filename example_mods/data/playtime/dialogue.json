@@ -1,0 +1,158 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "Niko",
+			"text": "Woaaah..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "angry",
+			"expression": "HatKid",
+			"text": "We really just, went through that?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "RalHapp",
+			"text": "(Observe, the power of teaching!)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "RalHapp",
+			"text": "*Ralsei's teaching STATS have gone UP!*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "RalHapp",
+			"text": "-BZZZZT!- You've received messages from ''SecretaryDoggo!''"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "RalCel",
+			"text": "...Oh? "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "IzzCel",
+			"text": "--Sounds like you are having fun :)--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "IzzCel",
+			"text": "--Even if we just got teleported against our will and we are basically kidnapped--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "RalCel",
+			"text": "--Hey, at least we got kidnapped with kindness! I think??--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "IzzCel",
+			"text": "--Y'know, now that I think about it...--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "IzzCel",
+			"text": "--...It seems we are on outer space with these two, I can see many stars from that window--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "IzzCelB",
+			"text": "--Yet the brightest one stands right below me-- "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "RalCel",
+			"text": "--Really? How does it look li..?--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "RalCelB1",
+			"text": "--...SHUUSH!-- "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "Niko",
+			"text": "Hey...hey mister!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "RalHapp",
+			"text": "(Oh? Oh, right, we are...)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "RalWat",
+			"text": "(...Still spacenapped, not good) "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "angry",
+			"expression": "Niko",
+			"text": "Do you mind if we..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "angry",
+			"expression": "NikoHapp",
+			"text": "Sing another song together?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "angry",
+			"expression": "HatKid",
+			"text": "Yeah! I demand more playtime!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "angry",
+			"expression": "NikoWat",
+			"text": "Mister green alien is not a toy, Hat Kid!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "RalWat",
+			"text": "(YOU ARE THE ONES COMING FROM OUTER SPACE!!)"
+		}
+	]
+}

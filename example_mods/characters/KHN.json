@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				164,
 				145
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "idle",
-			"indices": [],
-			"name": "Senpai Idle"
+			"fps": 24,
+			"name": "Senpai Idle",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				185,
 				177
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "SENPAI UP NOTE",
-			"indices": []
+			"indices": [],
+			"name": "SENPAI UP NOTE"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				164,
 				145
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "SENPAI RIGHT NOTE",
-			"indices": []
+			"indices": [],
+			"name": "SENPAI RIGHT NOTE"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				164,
 				145
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "SENPAI LEFT NOTE",
-			"indices": []
+			"indices": [],
+			"name": "SENPAI LEFT NOTE"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				164,
 				145
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "SENPAI DOWN NOTE",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SENPAI DOWN NOTE"
 		}
 	],
 	"no_antialiasing": true,
@@ -62,7 +62,7 @@
 		240,
 		360
 	],
-	"healthicon": "senpai-pixel",
+	"healthicon": "NHK",
 	"flip_x": false,
 	"healthbar_colors": [
 		255,

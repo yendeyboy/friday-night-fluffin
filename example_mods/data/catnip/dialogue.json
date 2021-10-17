@@ -1,0 +1,179 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "Ray",
+			"text": "Scintillating performance, sport! "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "angry",
+			"expression": "Ray",
+			"text": "Look at the audience, everyone's cheering for you!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "angry",
+			"expression": "Narrator",
+			"text": "(The audience consisted of poorly drawn Raymond cardboard cutouts)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "angry",
+			"expression": "Narrator",
+			"text": "(...And Chrissy, who is drinking juice from a Raymond shaped cup)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "RalWat",
+			"text": "(How did I get in this situation, again?)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "angry",
+			"expression": "Ray",
+			"text": "I bet everyone's roaring for more, let's do one more, I say!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "angry",
+			"expression": "Ray",
+			"text": "All after this commercial break, another battle of wits against the alien boy!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "RalWat",
+			"text": "(I'M NOT AN ALIEN!!) "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "RalSad",
+			"text": "(Am I really...that weird looking to the people in this world...?)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "RalSad",
+			"text": "--BZZZT-- You've received messages from ''SecretaryDoggo!'' "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "RalCelSad",
+			"text": "(...Huh?) "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "IzzCel",
+			"text": "--Don't listen to that dumb cat, fluffy heaven~--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "IzzCel",
+			"text": "--Raymond is always rude when someone rivals his skill-- "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "RalCelB3",
+			"text": "--Oh, hello, it's you!...--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "RalCelB3",
+			"text": "--...--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "RalCelB1",
+			"text": "--''F-Fluffy h...heaven?''--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "IzzCelB2",
+			"text": "--Teehee :3c--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "IzzCel",
+			"text": "--You are doing great! Don't worry your little head about it--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "IzzCelB",
+			"text": "--Honestly, I already fell for you before, but...--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "IzzCelB",
+			"text": "--Hearing you sing, it makes me really, really happy-- "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "RalCelB3",
+			"text": "--Oh...--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "RalCelB3",
+			"text": "--T-then..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "RalCelB3",
+			"text": "--...Consider this next song for you!--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "angry",
+			"expression": "Ray",
+			"text": "Ah! Welcome back, everyone! Now that you are all tuning in..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "angry",
+			"expression": "Ray",
+			"text": "Let's rock this world, chap!"
+		}
+	]
+}

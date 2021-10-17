@@ -1,0 +1,179 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.25,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "HatKid",
+			"text": "...Uh oh."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "NikoWat",
+			"text": "What do you mean ''Uh-oh?!'' Where the heck are we??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "RalWat",
+			"text": "(...Is this how I die?)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "HatKid",
+			"text": "I think I pressed the wrong button."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "HatKid",
+			"text": "We seem to be stuck in a time loop forever."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "NikoWat",
+			"text": "HOW CAN YOU BE SO CALM ABOUT THIS?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "HatKid",
+			"text": "Hey, don't be such a yeller, Niko!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "HatKid",
+			"text": "At least the colors look kinda cool in this place, Oooh, time loop colors."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "HatKid",
+			"text": "...The FAKE kind! These are just party lights!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "HatKid",
+			"text": "You should look at your faces! Hahahaha!"
+		},
+		{
+			"speed": 0.25,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "NikoWat",
+			"text": "..."
+		},
+		{
+			"speed": 0.25,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "RalWat",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "HatKid",
+			"text": "You two are the worst crowd."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "RalWat",
+			"text": "--You've received messages from ''SecretaryDoggo!''"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "IzzCel",
+			"text": "--I will admit, that was a good one!--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "RalWat",
+			"text": "--You are not mad about this??--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "IzzCel",
+			"text": "--Hehe, no, not really! After all I---"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "IzzCel",
+			"text": "--Sometimes like to pull pranks too?--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "RalCel",
+			"text": "--Oh, well maybe, it can be fun!--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "RalCelSad",
+			"text": "--As long as you don't scare me--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "IzzCel",
+			"text": "--Hey hey, Hat Kid is trying to bomb you with chemicals from behind!!--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "RalCelSad",
+			"text": "--Huh??--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "RalCelB2",
+			"text": "EEEP-!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "RalCelB1",
+			"text": "--S-stooop!!--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Right",
+			"boxState": "normal",
+			"expression": "IzzyCelB",
+			"text": "--Teehee :3c Sorry not sorry!--"
+		}
+	]
+}

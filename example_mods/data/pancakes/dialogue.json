@@ -1,0 +1,207 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "HatKid",
+			"text": "Now, crouch, Niko."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "Niko",
+			"text": "Huh? Why do you ask me to-"
+		},
+		{
+			"speed": 0.65,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "NikoWat",
+			"text": ". . ."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "NikoWat",
+			"text": "Why am I giving you a piggy back, again?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "Hatkid",
+			"text": "The view is nice from here"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "NikoWat",
+			"text": "...AND??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "HatKid",
+			"text": "I want to feel tall for once!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "HatKid",
+			"text": "...And I only have one mic, so we'll have to share"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "HatKid",
+			"text": "Now hush, we have a goat's butt to kick!!"
+		},
+		{
+			"speed": 0.55,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "Niko",
+			"text": "..."
+		},
+		{
+			"speed": 0.55,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "HatKid",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "Niko",
+			"text": "Well? Should we start or?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "HatKid",
+			"text": "Oh yeah, about that-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "HatKid",
+			"text": "I don't know how to sing."
+		},
+		{
+			"speed": 0.45,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "Niko",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "NikoWat",
+			"text": "How are we supposed to duel him if we-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "HatKid",
+			"text": "SHUSH!! I'M TOO BUSY BLASTING BAD GUYS FOR THAT!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "RalWat",
+			"text": "(...These two are hopeless)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "RalHapp",
+			"text": "(But they are good kids, this doesn't look like a dangerous situation, like SOME cats)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "HatKid",
+			"text": "Hey, goat boy!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "RalWat",
+			"text": "...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "HatKid",
+			"text": "Teach us how to sing!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "Niko",
+			"text": "...Are you serious right now?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "HatKid",
+			"text": "Got any better ideas then? How about YOU teach me instead??"
+		},
+		{
+			"speed": 0.55,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "Niko",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "RalHapp",
+			"text": "Well, you caught me there!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "RalStars",
+			"text": "(Teaching them? They want to learn...from me?)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "RalHapp",
+			"text": "(Aww!! I love this already! Don't you two worry, professor Ralsei is here to help!)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "RalHapp",
+			"text": "(Alright, repeat after me! Aand 1..2..3..!)"
+		}
+	]
+}

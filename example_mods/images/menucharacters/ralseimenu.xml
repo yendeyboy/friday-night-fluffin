@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ralseimenu.png">
+	<!-- Done with mura's hands lol, fuck menu characters bruh -->
+	<SubTexture name="idle0000" x="1023" y="21" width="189" height="201" frameWidth="190" frameHeight="210"/>
+	<SubTexture name="idle0000" x="1023" y="21" width="189" height="201" frameWidth="190" frameHeight="210"/>
+	<SubTexture name="idle0001" x="1275" y="15" width="186" height="207" frameWidth="190" frameHeight="210"/>
+	<SubTexture name="idle0001" x="1275" y="15" width="186" height="207" frameWidth="190" frameHeight="210"/>
+	<SubTexture name="idle0002" x="30" y="258" width="189" height="213" frameWidth="190" frameHeight="210"/>
+	<SubTexture name="idle0002" x="30" y="258" width="189" height="213" frameWidth="190" frameHeight="210"/>
+	<SubTexture name="idle0003" x="285" y="255" width="183" height="216" frameWidth="190" frameHeight="210"/>
+	<SubTexture name="idle0003" x="285" y="255" width="183" height="216" frameWidth="190" frameHeight="210"/>
+	<SubTexture name="idle0004" x="543" y="252" width="174" height="219" frameWidth="190" frameHeight="210"/>
+	<SubTexture name="idle0004" x="543" y="252" width="174" height="219" frameWidth="190" frameHeight="210"/>
+
+	
+</TextureAtlas>

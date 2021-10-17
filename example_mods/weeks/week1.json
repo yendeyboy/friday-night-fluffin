@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"catcall",
+			"raymond",
+			[
+				226,
+				113,
+				253
+			]
+		],
+		[
+			"catnip",
+			"raymond",
+			[
+				255,
+				113,
+				253
+			]
+		],
+		[
+			"catastrophe",
+			"raymond",
+			[
+				255,
+				0,
+				93
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "fuck menu",
+	"weekName": "rayweek1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

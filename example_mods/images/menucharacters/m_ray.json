@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Parent Christmas Idle Black Lines",
+	"image": "Menu_chars",
+	"position": [
+		280,
+		100
+	],
+	"scale": 0.4,
+	"confirm_anim": "BF HEY!!"
+}

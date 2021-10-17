@@ -1,0 +1,232 @@
+{
+	"position": [
+		0,
+		0
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "opp",
+	"animations": [
+		{
+			"loop_offsets": [
+				-100,
+				40
+			],
+			"anim": "Ray",
+			"idle_offsets": [
+				-100,
+				40
+			],
+			"loop_name": "1ray",
+			"idle_name": "1ray"
+		},
+		{
+			"loop_offsets": [
+				-100,
+				40
+			],
+			"anim": "RayAngry",
+			"idle_offsets": [
+				-100,
+				40
+			],
+			"loop_name": "2rayangry",
+			"idle_name": "2rayangry"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "RalHapp",
+			"idle_offsets": [
+				-710,
+				50
+			],
+			"loop_name": "5ral",
+			"idle_name": "5ral"
+		},
+		{
+			"loop_offsets": [
+				-710,
+				50
+			],
+			"anim": "RalSad",
+			"idle_offsets": [
+				-710,
+				50
+			],
+			"loop_name": "6ral",
+			"idle_name": "6ral"
+		},
+		{
+			"loop_offsets": [
+				-710,
+				50
+			],
+			"anim": "RalWat",
+			"idle_offsets": [
+				-710,
+				50
+			],
+			"loop_name": "8ral",
+			"idle_name": "8ral"
+		},
+		{
+			"loop_offsets": [
+				-710,
+				50
+			],
+			"anim": "RalCelB3",
+			"idle_offsets": [
+				-710,
+				50
+			],
+			"loop_name": "3ral",
+			"idle_name": "3ral"
+		},
+		{
+			"loop_offsets": [
+				-710,
+				50
+			],
+			"anim": "RalStars",
+			"idle_offsets": [
+				-710,
+				50
+			],
+			"loop_name": "7ral",
+			"idle_name": "7ral"
+		},
+		{
+			"loop_offsets": [
+				-100,
+				50
+			],
+			"anim": "Niko",
+			"idle_offsets": [
+				-100,
+				50
+			],
+			"loop_name": "10niko",
+			"idle_name": "10niko"
+		},
+		{
+			"loop_offsets": [
+				-100,
+				50
+			],
+			"anim": "NikoHapp",
+			"idle_offsets": [
+				-100,
+				50
+			],
+			"loop_name": "11niko",
+			"idle_name": "11niko"
+		},
+		{
+			"idle_offsets": [
+				-710,
+				50
+			],
+			"anim": "RalCelSad",
+			"loop_offsets": [
+				-710,
+				50
+			],
+			"idle_name": "4ral",
+			"loop_name": "4ral"
+		},
+		{
+			"loop_offsets": [
+				-100,
+				50
+			],
+			"anim": "NikoWat",
+			"idle_offsets": [
+				-100,
+				50
+			],
+			"loop_name": "12niko",
+			"idle_name": "12niko"
+		},
+		{
+			"loop_offsets": [
+				-710,
+				50
+			],
+			"anim": "IzzCel",
+			"idle_offsets": [
+				-710,
+				50
+			],
+			"loop_name": "13izz",
+			"idle_name": "13izz"
+		},
+		{
+			"loop_offsets": [
+				-710,
+				50
+			],
+			"anim": "IzzCelB",
+			"idle_offsets": [
+				-710,
+				50
+			],
+			"loop_name": "14izz",
+			"idle_name": "14izz"
+		},
+		{
+			"loop_offsets": [
+				-710,
+				50
+			],
+			"anim": "IzzCelB2",
+			"idle_offsets": [
+				-710,
+				50
+			],
+			"loop_name": "15izz",
+			"idle_name": "15izz"
+		},
+		{
+			"loop_offsets": [
+				-710,
+				50
+			],
+			"anim": "IzzCelD",
+			"idle_offsets": [
+				-710,
+				50
+			],
+			"loop_name": "16izz",
+			"idle_name": "16izz"
+		},
+		{
+			"loop_offsets": [
+				-100,
+				50
+			],
+			"anim": "HatKid",
+			"idle_offsets": [
+				-100,
+				50
+			],
+			"loop_name": "17hat",
+			"idle_name": "17hat"
+		},
+		{
+			"loop_name": "narrator",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "narrator",
+			"anim": "Narrator",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

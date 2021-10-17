@@ -1,0 +1,10 @@
+{
+	"idle_anim": "BD idle dance white",
+	"image": "Menu_chars",
+	"position": [
+		73,
+		-17
+	],
+	"scale": 0.7,
+	"confirm_anim": "BF HEY!!"
+}

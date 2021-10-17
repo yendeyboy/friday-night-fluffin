@@ -321,9 +321,11 @@ class PlayState extends MusicBeatState
 					curStage = 'space';
 				case 'dreamland':
 					curStage = 'space2';
-				case 'catastrophe' | 'catnip' | 'catall':
+				case 'catnip' | 'catall':
 					curStage = 'dreams';
-				
+				case 'catastrophe':
+					curStage = 'dreams2';
+
 				default:
 					curStage = 'stage';
 			}
@@ -618,6 +620,7 @@ class PlayState extends MusicBeatState
 			
 			case 'space':
 				{
+					GameOverSubstate.characterName = 'bf-ralsei-dead';
 					var spacebg:BGSprite = new BGSprite('fluff/space', -400, -240, 1, 1, ['space idle'], true);
 					spacebg.setGraphicSize(Std.int(spacebg.width * 7));
 					spacebg.updateHitbox();
@@ -626,14 +629,33 @@ class PlayState extends MusicBeatState
 				
 			case 'space2':
 				{
+				GameOverSubstate.characterName = 'bf-ralsei-dead';
+				if(!ClientPrefs.lowQuality) {
 					var space2:BGSprite = new BGSprite('fluff/space2', 400, 200, 0.8, 0.9, ['background 2'], true);
 					space2.scale.set(7, 7);
 					space2.antialiasing = false;
 					add(space2);
+				} else {
+					var space2:BGSprite = new BGSprite('fluff/space2_low', 400, 200, 0.8, 0.9, ['background 2'], true);
+					space2.scale.set(7, 7);
+					space2.antialiasing = false;
+					add(space2);
+				}
+					
 				}
 			
 			case 'dreams':
 				{
+					GameOverSubstate.characterName = 'bf-ralsei-dead';
+					var dreamsbg:BGSprite = new BGSprite('fluff/dreams', -400, -190, 1, 1, ['dreams idle'], true);
+					dreamsbg.setGraphicSize(Std.int(dreamsbg.width * 7));
+					dreamsbg.updateHitbox();
+					add(dreamsbg);
+				}
+					
+			case 'dreams2':
+				{
+					GameOverSubstate.characterName = 'bf-ralsei-dead';
 					var dreamsbg:BGSprite = new BGSprite('fluff/dreams', -400, -190, 1, 1, ['dreams idle'], true);
 					dreamsbg.setGraphicSize(Std.int(dreamsbg.width * 7));
 					dreamsbg.updateHitbox();
@@ -764,8 +786,8 @@ class PlayState extends MusicBeatState
 				var evilTrail = new FlxTrail(dad, null, 4, 24, 0.3, 0.069); //nice
 				insert(members.indexOf(dadGroup) - 1, evilTrail);
 
-			case 'dreams':
-	 			var rayt = new FlxTrail(dad, null, 3, 24, 0.5, 0.8); //nice
+			case 'dreams2':
+	 			var rayt = new FlxTrail(dad, null, 3, 24, 0.5, 0.8); //aye hello there
 				add(rayt);
 		}
 
@@ -1030,8 +1052,6 @@ class PlayState extends MusicBeatState
 				case 'senpai' | 'roses' | 'thorns':
 					if(daSong == 'roses') FlxG.sound.play(Paths.sound('ANGRY'));
 					schoolIntro(doof);
-				case 'catcall' | 'catnip' | 'catastrophe' | 'playtime' | 'pancakes' | 'dreamland':
-					startDialogue(dialogueJson);
 
 				default:
 					startCountdown();

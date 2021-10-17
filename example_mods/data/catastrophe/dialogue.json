@@ -1,0 +1,165 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.35,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "Ray",
+			"text": "Well..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "Ray",
+			"text": "We seem to have run out of time! Tune in for next time in SINGING DREAMS!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "Ray",
+			"text": "More SINGING!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "angry",
+			"expression": "Ray",
+			"text": "More DREAMS!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "angry",
+			"expression": "Ray",
+			"text": "And...more of...whatever that thing using green towels for for clothes is!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "RalWat",
+			"text": "(It's called a ROBE!!)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "angry",
+			"expression": "Ray",
+			"text": "And...we are out of the air!"
+		},
+		{
+			"speed": 0.55,
+			"portrait": "opp",
+			"boxState": "angry",
+			"expression": "RayAngry",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "angry",
+			"expression": "RayAngry",
+			"text": "I'm only going to ask this once."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "angry",
+			"expression": "RayAngry",
+			"text": "Chrissy, Isabelle, what the HELL are you two doing here?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "angry",
+			"expression": "RayAngry",
+			"text": "Are you here to watch my career pummel into the ground as you LAUGH in my face?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "angry",
+			"expression": "RayAngry",
+			"text": "Well, congratu-freaking-lations then!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "angry",
+			"expression": "RayAngry",
+			"text": "No one else came to watch this show, are you happy now?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "angry",
+			"expression": "RayAngry",
+			"text": "First, Chrissy's break up, and now you bring this...lickspittle to mock me?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "angry",
+			"expression": "RayAngry",
+			"text": "Well then, if that's how it is, I'm not having ANY of it."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "RayAngry",
+			"text": "YOU! The green goblin, SPEAK!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "angry",
+			"expression": "RayAngry",
+			"text": "Or are you just like that mime with dog ears over there?!"
+		},
+		{
+			"speed": 0.55,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "IzzCelD",
+			"text": "(...)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "RalCelSad",
+			"text": "(...)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "narrator",
+			"text": "(Raymonds's words hurt Chrissy to the degree she left the room in tears...)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "angry",
+			"expression": "RayAngry",
+			"text": "Yeah, go away then!! I don't NEED you!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "angry",
+			"expression": "RayAngry",
+			"text": "I was going easy on you those first two songs, but now..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "angry",
+			"expression": "RayAngry",
+			"text": "...You better start writing a requiem for what's to come!!"
+		}
+	]
+}

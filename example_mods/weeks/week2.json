@@ -1,0 +1,48 @@
+{
+	"storyName": "Your New Week",
+	"hideFreeplay": false,
+	"weekBackground": "stage2",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"pancakes",
+			"nhk",
+			[
+				146,
+				233,
+				253
+			]
+		],
+		[
+			"playtime",
+			"nhk",
+			[
+				146,
+				233,
+				253
+			]
+		],
+		[
+			"dreamland",
+			"NHK",
+			[
+				146,
+				233,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "khnweek"
+}
