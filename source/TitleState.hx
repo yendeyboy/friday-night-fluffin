@@ -401,6 +401,17 @@ class TitleState extends MusicBeatState
 		}
 	}
 
+	function presentText(text:String, ?offset:Float = 0)
+	{
+		if(textGroup != null) {
+			var coolText:Alphabet = new Alphabet(0, 0, text, true, false);
+			coolText.screenCenter(X);
+			coolText.y += (textGroup.length * 58) + 200 + offset; //60
+			credGroup.add(coolText);
+			textGroup.add(coolText);
+		}
+	}
+
 	function deleteCoolText()
 	{
 		while (textGroup.members.length > 0)
@@ -431,52 +442,52 @@ class TitleState extends MusicBeatState
 			switch (curBeat)
 			{
 				case 1:
-					createCoolText(['Psych Engine by'], 45);
-				// credTextShit.visible = true;
-				case 3:
-					addMoreText('Shadow Mario', 45);
-					addMoreText('RiverOaken', 45);
+					presentText('Sourcy', 45);
+					presentText('and', 45);
+					presentText('The Fluffin Team', 45);
+				case 2:
+					presentText('Presents', 45);
 				// credTextShit.text += '\npresent...';
 				// credTextShit.addText();
-				case 4:
+				case 3:
 					deleteCoolText();
 				// credTextShit.visible = false;
 				// credTextShit.text = 'In association \nwith';
 				// credTextShit.screenCenter();
-				case 5:
+				case 4:
 					createCoolText(['This is a mod to'], -60);
-				case 7:
+				case 5:
 					addMoreText('This game right below lol', -60);
 					logoSpr.visible = true;
 				// credTextShit.text += '\nNewgrounds';
-				case 8:
+				case 6:
 					deleteCoolText();
 					logoSpr.visible = false;
 				// credTextShit.visible = false;
 
 				// credTextShit.text = 'Shoutouts Tom Fulp';
 				// credTextShit.screenCenter();
-				case 9:
+				case 7:
 					createCoolText([curWacky[0]]);
 				// credTextShit.visible = true;
-				case 11:
+				case 8:
 					addMoreText(curWacky[1]);
 				// credTextShit.text += '\nlmao';
-				case 12:
+				case 9:
 					deleteCoolText();
 				// credTextShit.visible = false;
 				// credTextShit.text = "Friday";
 				// credTextShit.screenCenter();
-				case 13:
+				case 10:
 					addMoreText('Friday');
 				// credTextShit.visible = true;
-				case 14:
+				case 11:
 					addMoreText('Night');
 				// credTextShit.text += '\nNight';
-				case 15:
-					addMoreText('Funkin'); // credTextShit.text += '\nFunkin';
+				case 12:
+					addMoreText('Fluffin'); // credTextShit.text += '\nFunkin';
 
-				case 16:
+				case 13:
 					skipIntro();
 			}
 		}
