@@ -1,6 +1,6 @@
 local allowCountdown = false
 function onStartCountdown()
-	if not allowCountdown and not seenCutscene then
+	if not allowCountdown and isStoryMode and not seenCutscene then
 		setProperty('inCutscene', true);
 		runTimer('startDialogue', 0.8);
 		allowCountdown = true;

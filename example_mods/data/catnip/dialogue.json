@@ -5,7 +5,7 @@
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "Ray",
-			"text": "Scintillating performance, sport! "
+			"text": "Scintillating performance, sport!"
 		},
 		{
 			"speed": 0.05,
@@ -26,14 +26,14 @@
 			"portrait": "narrator",
 			"boxState": "normal",
 			"expression": "narrate",
-			"text": "(...Lottie, who’s looking pretty proud of herself after remembering to play the 'applause' track...)"
+			"text": "(...Plus Lottie, who's looking pretty proud of herself after remembering to play the 'applause' track...)"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "narrator",
 			"boxState": "normal",
 			"expression": "narrate",
-			"text": "(...though she's unknowingly let the calculator fall into the negatives…somehow...)"
+			"text": "(...though she's unknowingly let the calculator fall into the negatives...somehow...)"
 		},
 		{
 			"speed": 0.05,
@@ -51,17 +51,80 @@
 		},
 		{
 			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "narrate",
+			"text": "(All in all, it's quite a crowd.)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "RalWat",
+			"text": "(How did I get into this situation again?)"
+		},
+		{
+			"speed": 0.05,
 			"portrait": "opp",
 			"boxState": "angry",
 			"expression": "Ray",
-			"text": "I hope your name doesn’t start with an L, ya green alien thing! I’m gonna go chug a can of water."
+			"text": "I'm sure everyone at home is dying for more as well! Encore, I say!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "angry",
+			"expression": "Ray",
+			"text": "But first, a word from our sponsor!"
+		},
+		{
+			"speed": 0.08,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "Ray",
+			"text": "Raycon Earbuds!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "narrate",
+			"text": "(Lottie looks up from the camera, signaling that the commercial break has started.)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "Ray",
+			"text": "Okay, take five everyone! Unless your name starts with an L, of course."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "angry",
+			"expression": "Ray",
+			"text": "Better hope your name doesn’t start with an L, ya weird alien cotton ball!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "Ray",
+			"text": "Now if you'll excuse me, I’ve gotta chug a can of water."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "narrate",
+			"text": "(Raymond retreats to his pile of name-brand cans of water.)"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "right",
 			"boxState": "normal",
 			"expression": "RalSad",
-			"text": "(Jeez, maybe I was a bit too optimistic about my chances of fitting in.)"
+			"text": "(Alien cotton ball, huh? Maybe I was a bit too optimistic about my chances of fitting in here.)"
 		},
 		{
 			"speed": 0.05,
@@ -82,14 +145,14 @@
 			"portrait": "right",
 			"boxState": "normal",
 			"expression": "IzzCel",
-			"text": "--Don't listen to that dumb cat, fluffy heaven~--"
+			"text": "--Don't listen to that dumb cat, fluffy heaven--"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "right",
 			"boxState": "normal",
 			"expression": "IzzCel",
-			"text": "--Raymond’s rude to everyone he perceives as threat--"
+			"text": "--Raymond's rude to everyone he perceives as a threat--"
 		},
 		{
 			"speed": 0.05,
@@ -103,21 +166,28 @@
 			"portrait": "right",
 			"boxState": "normal",
 			"expression": "RalCelB3",
-			"text": "--Thanks, honestly I wouldn’t have gotten a single note out if you weren’t here---"
+			"text": "--Thanks, honestly I wouldn’t have gotten a single note out if you weren't here---"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "right",
 			"boxState": "normal",
-			"expression": "RalCelB3",
+			"expression": "RalCelSad",
 			"text": "--But at the same time, I could still screw everything up at a moment's notice.--"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "right",
 			"boxState": "normal",
-			"expression": "IzzCelB2",
+			"expression": "IzzCel",
 			"text": "--Well, I’m not too great at giving advice, but I know this much…--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "IzzCelB2",
+			"text": "--Hearing you sing...it just makes me really happy--"
 		},
 		{
 			"speed": 0.05,
@@ -152,7 +222,7 @@
 			"portrait": "right",
 			"boxState": "normal",
 			"expression": "RalCelB1",
-			"text": "--''F-Fluffy h...heaven?” 0-0--"
+			"text": "--''F-Fluffy h...heaven?''--"
 		},
 		{
 			"speed": 0.05,

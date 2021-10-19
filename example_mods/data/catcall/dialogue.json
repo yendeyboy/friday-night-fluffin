@@ -12,7 +12,7 @@
 			"portrait": "right",
 			"boxState": "normal",
 			"expression": "RalStars",
-			"text": "(Woaaah...what a beatiful stage)"
+			"text": "(Woaaah...what a beautiful stage...)"
 		},
 		{
 			"speed": 0.05,
@@ -33,21 +33,21 @@
 			"portrait": "right",
 			"boxState": "normal",
 			"expression": "RalWat",
-			"text": "(..Wait a minute)"
+			"text": "(..Oh yeah.)"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "Ray",
-			"text": "I'm Raymond, your host! Any BOY do we have some surprises in store for you tonight."
+			"text": "I'm Raymond, your host! And BOY do we have some surprises in store for you tonight!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "Ray",
-			"text": "That first surprise being, WE HAVE NO STAFF!"
+			"text": "Our first surprise being, WE HAVE NO STAFF!"
 		},
 		{
 			"speed": 0.05,
@@ -68,23 +68,21 @@
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "Ray",
-			"text": "Except for our cameraman, Lottie…"
+			"text": "Except for our cameraman, Lottie..."
+		},
+		{
+			"speed": 0.08,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "Ray",
+			"text": "We don't feed them."
 		},
                 {
 			"speed": 0.05,
 			"portrait": "right",
 			"boxState": "normal",
 			"expression": "RalWat",
-			"text": "(Haha, that’s actually…not good…)"
-		},
-		{
-                
-			"speed": 0.05,
-			"portrait": "opp",
-			"boxState": "normal",
-			"expression": "Ray",
-			"text": "Lottie, don’t wave, no one can see you. Sheesh..."
-                
+			"text": "(Haha, that’s actually...not good...)"
 		},
 		{	"speed": 0.05,
 			"portrait": "opp",
@@ -115,10 +113,17 @@
 		},
 		{
 			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "Ray",
+			"text": "I must say, bold choice wearing that silly pink towel on a live broadcast. You know what they say about first impressions?"
+		},
+		{
+			"speed": 0.05,
 			"portrait": "right",
 			"boxState": "normal",
 			"expression": "RalWat",
-			"text": "(I wish I hadn’t eaten that pot pie.) "
+			"text": "(Wa- IT'S A SCARF!)"
 		},
 		{
 			"speed": 0.05,
@@ -132,35 +137,49 @@
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "Ray",
-			"text": "Relaaax, crisp! You'll be fine, what's the worst thing that could happen?"
+			"text": "Relaaax, crisp! You'll be fine, what's the worst that could happen?"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "Ray",
-			"text": "It isn’t like there are 40,000 people watching you, waiting for you to mess up so they can turn you into the laughingstock of the generation?"
+			"text": "After all, it isn’t like there are 40,000 people watching you, just waiting for you to mess up..."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "Ray",
-			"text": "There are actually 50,000"
+			"text": "...so they can cast you aside as yet another cheap laugh!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "RalWat",
+			"text": "!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "opp",
-			"boxState": "normal",
+			"boxState": "angry",
 			"expression": "Ray",
-			"text": "(The audience counter is just an upside down calculator)"
+			"text": "That's because we've actually reached 50,000 viewers! So many people with good taste."
 		},
 		{
 			"speed": 0.05,
-			"portrait": "opp",
+			"portrait": "narrator",
 			"boxState": "normal",
-			"expression": "Ray",
-			"text": "Lottie is trying but failing to get the number any higher than three...)"
+			"expression": "narrate",
+			"text": "(The audience counter is just a repurposed scientific calculator.)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "narrate",
+			"text": "(Lottie is trying but failing to get the number any higher than three...)"
 		},
 		{
 			"speed": 0.05,
@@ -175,6 +194,13 @@
 			"boxState": "normal",
 			"expression": "Ray",
 			"text": "...At least you get to be a pebble in my growing pathway to fame! What an honor, eh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "RalWat",
+			"text": "(I wish I hadn't eaten that pot pie...)"
 		}
 	]
 }

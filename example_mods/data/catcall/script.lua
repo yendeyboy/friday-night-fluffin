@@ -15,3 +15,7 @@ function onStartCountdown()
 	end
 	return Function_Continue;
 end
+
+function keyShit()
+	setProperty('inCutscene', true);
+end

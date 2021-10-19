@@ -32,13 +32,13 @@
 			"speed": 0.05,
 			"portrait": "opp",
 			"boxState": "normal",
-			"expression": "Hatkid",
+			"expression": "HatKid",
 			"text": "The view is nice from up here!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "opp",
-			"boxState": "normal",
+			"boxState": "angry",
 			"expression": "NikoWat",
 			"text": "...AND??"
 		},
@@ -59,9 +59,9 @@
 		{
 			"speed": 0.05,
 			"portrait": "opp",
-			"boxState": "normal",
+			"boxState": "angry",
 			"expression": "HatKid",
-			"text": "Now hush, we have a goat's butt to kick!!"
+			"text": "Now hush, we've a goat's butt to kick!!"
 		},
 		{
 			"speed": 0.55,
@@ -82,7 +82,7 @@
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "Niko",
-			"text": "Well? Should we start or?"
+			"text": "Well? Should we start or...?"
 		},
 		{
 			"speed": 0.05,
@@ -110,12 +110,12 @@
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "NikoWat",
-			"text": "How are we supposed to duel him if we-"
+			"text": "How are we supposed to duel him if you-"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "opp",
-			"boxState": "normal",
+			"boxState": "angry",
 			"expression": "HatKid",
 			"text": "CALM DOWN!! I’M GOOD AT WINNING, THAT’S MORE THAN ENOUGH REASON TO CALL A DUEL!!"
 		},
@@ -124,19 +124,19 @@
 			"portrait": "right",
 			"boxState": "normal",
 			"expression": "RalWat",
-			"text": "(...These two are hopeless)"
+			"text": "(...These two are hopeless.)"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "right",
 			"boxState": "normal",
 			"expression": "RalHapp",
-			"text": "(But they seem like good kids. Hopefully this won’t end up like last week’s catastrophe)"
+			"text": "(But they seem like good kids. Hopefully this won’t end up like last week’s catastrophe.)"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "opp",
-			"boxState": "normal",
+			"boxState": "angry",
 			"expression": "HatKid",
 			"text": "Hey, goat boy!"
 		},
@@ -158,7 +158,7 @@
 			"speed": 0.05,
 			"portrait": "opp",
 			"boxState": "normal",
-			"expression": "Niko",
+			"expression": "NikoWat",
 			"text": "...Are you serious right now?"
 		},
 		{
@@ -166,10 +166,10 @@
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "HatKid",
-			"text": "Got any better ideas then? How about YOU teach me instead??"
+			"text": "Got any better ideas? How about YOU teach me instead??"
 		},
 		{
-			"speed": 0.55,
+			"speed": 0.35,
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "Niko",
@@ -184,24 +184,24 @@
 		},
 		{
 			"speed": 0.05,
-			"portrait": "opp",
+			"portrait": "right",
 			"boxState": "normal",
 			"expression": "RalStars",
 			"text": "(Teach them? They really want to learn...from me?)"
 		},
 		{
 			"speed": 0.05,
-			"portrait": "opp",
+			"portrait": "right",
 			"boxState": "normal",
 			"expression": "RalHapp",
-			"text": "(Aww!! I love this already! Don't you two worry, professor Ralsei is here to help!)"
+			"text": "(Aww!! I love this already! Don't you two worry, Professor Ralsei is here to help!)"
 		},
 		{
 			"speed": 0.05,
-			"portrait": "opp",
+			"portrait": "right",
 			"boxState": "normal",
 			"expression": "RalHapp",
-			"text": "(Alright, repeat after me!)"
+			"text": "(Alright, just repeat after me!)"
 		}
 	]
 }

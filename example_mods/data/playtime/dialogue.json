@@ -1,7 +1,7 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.05,
+			"speed": 0.15,
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "Niko",
@@ -10,14 +10,14 @@
 		{
 			"speed": 0.05,
 			"portrait": "opp",
-			"boxState": "angry",
+			"boxState": "normal",
 			"expression": "HatKid",
-			"text": "Did we make those sounds…with our mouths?"
+			"text": "Did we make those sounds...with our mouths?"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "right",
-			"boxState": "angry",
+			"boxState": "normal",
 			"expression": "RalHapp",
 			"text": "(Observe, the power of teaching!)"
 		},
@@ -33,26 +33,26 @@
 			"portrait": "right",
 			"boxState": "angry",
 			"expression": "RalHapp",
-			"text": "-BZZZZT!- You've received messages from ''SecretaryDoggo!''"
+			"text": "--BZZZT-- You've received messages from ''SecretaryDoggo!''"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "right",
-			"boxState": "angry",
+			"boxState": "normal",
 			"expression": "RalCel",
-			"text": "...Oh? "
+			"text": "...Oh?"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "right",
-			"boxState": "angry",
+			"boxState": "normal",
 			"expression": "IzzCel",
 			"text": "--Sounds like you are having fun :)--"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "right",
-			"boxState": "angry",
+			"boxState": "normal",
 			"expression": "IzzCel",
 			"text": "--Considering we just got teleported here against our will and were basically kidnapped--"
 		},
@@ -60,76 +60,111 @@
 			"speed": 0.05,
 			"portrait": "right",
 			"boxState": "angry",
-			"expression": "RalCel",
-			"text": "--Hey, at least we got kidnapped with kindness! I think??--"
+			"expression": "RalCelB2",
+			"text": "--ONO YOU'RE RIGHT! I DON'T THINK I REMEMBERED TO TURN OFF ALL THE LIGHTS AT THE BAKERY!!--"
 		},
 		{
-			"speed": 0.05,
+			"speed": 0.06,
 			"portrait": "right",
-			"boxState": "angry",
+			"boxState": "normal",
 			"expression": "IzzCel",
-			"text": "--Y'know, now that I think about it...--"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "right",
-			"boxState": "angry",
-			"expression": "IzzCel",
-			"text": "--...The stars seem to shine a lot brighter from outer space--"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "right",
-			"boxState": "angry",
-			"expression": "IzzCelB",
-			"text": "--Yet the brightest one stands right below me-- "
-		},
-		{
-			"speed": 0.05,
-			"portrait": "right",
-			"boxState": "angry",
-			"expression": "RalCel",
-			"text": "Really? You probably shouldn’t stare at it for too…"
+			"text": "--...I feel like that's the least of our concerns right now--"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "right",
 			"boxState": "angry",
 			"expression": "RalCelB1",
-			"text": "--...SHUUSH!-- "
+			"text": "--NOO YOU DON'T UNDERSTAND!!--"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "right",
 			"boxState": "angry",
+			"expression": "RalCelB2",
+			"text": "--ALL OF THE LIGHTBULBS THERE ARE INCANDESCENT!!--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "angry",
+			"expression": "RalCelB2",
+			"text": "--WHEN I GET BACK IT'S GONNA BE SO WARM AND THE POWER BILL WILL BE SO HIGH!!!--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "IzzCel",
+			"text": "(Okay, time to change the subject.)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "IzzCel",
+			"text": "--Y'know, speaking of lights...--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "IzzCel",
+			"text": "--...The stars seem to shine a lot brighter from outer space--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "IzzCelB",
+			"text": "--Yet the brightest one stands right below me-- "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "RalCel",
+			"text": "--Really? You probably shouldn’t stare at it for too...--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "RalCelB1",
+			"text": "--...SHUUSH!-- "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
 			"expression": "Niko",
 			"text": "Hey...hey mister?!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "right",
-			"boxState": "angry",
+			"boxState": "normal",
 			"expression": "RalHapp",
 			"text": "(Oh? Oh, right, we are...)"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "right",
-			"boxState": "angry",
+			"boxState": "normal",
 			"expression": "RalWat",
 			"text": "(...Still spacenapped, not good) "
 		},
 		{
 			"speed": 0.05,
 			"portrait": "opp",
-			"boxState": "angry",
+			"boxState": "normal",
 			"expression": "Niko",
 			"text": "Do you mind if we..."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "opp",
-			"boxState": "angry",
+			"boxState": "normal",
 			"expression": "NikoHapp",
 			"text": "Sing another song together?"
 		},
@@ -143,7 +178,7 @@
 		{
 			"speed": 0.05,
 			"portrait": "opp",
-			"boxState": "angry",
+			"boxState": "normal",
 			"expression": "NikoWat",
 			"text": "Mister green alien is not a toy, Hat Kid!!"
 		},

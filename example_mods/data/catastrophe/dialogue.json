@@ -1,165 +1,221 @@
 {
 	"dialogue": [
 		{
+			"expression": "Ray",
+			"text": "Well...",
+			"boxState": "normal",
 			"speed": 0.35,
-			"portrait": "opp",
+			"portrait": "opp"
+		},
+		{
+			"expression": "Ray",
+			"text": "We seem to have run out of time for tonight! Tune in next time on SINGING DREAMS!",
 			"boxState": "normal",
-			"expression": "Ray",
-			"text": "Well..."
+			"speed": 0.05,
+			"portrait": "opp"
 		},
 		{
+			"expression": "Ray",
+			"text": "More SINGING!",
+			"boxState": "angry",
 			"speed": 0.05,
-			"portrait": "opp",
+			"portrait": "opp"
+		},
+		{
+			"expression": "Ray",
+			"text": "More DREAMS!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "opp"
+		},
+		{
+			"expression": "Ray",
+			"text": "...And hopefully less of this guy and his \\n questionable fashion choices!",
 			"boxState": "normal",
-			"expression": "Ray",
-			"text": "We seem to have run out of time! Tune in for next time in SINGING DREAMS!"
+			"speed": 0.05,
+			"portrait": "opp"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "opp",
-			"boxState": "normal",
-			"expression": "Ray",
-			"text": "More SINGING!"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "opp",
-			"boxState": "angry",
-			"expression": "Ray",
-			"text": "More DREAMS!"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "opp",
-			"boxState": "angry",
-			"expression": "Ray",
-			"text": "And...more of...whatever that thing using green towels for for clothes is!"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "right",
-			"boxState": "angry",
 			"expression": "RalWat",
-			"text": "(It's called a ROBE!!)"
+			"text": "(It's just a SCARF!!)",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "right"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "opp",
-			"boxState": "angry",
 			"expression": "Ray",
-			"text": "And...we are out of the air!"
+			"text": "And...we are out of the air!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "opp"
 		},
 		{
+			"expression": "RayAngry",
+			"text": "...",
+			"boxState": "normal",
 			"speed": 0.55,
-			"portrait": "opp",
-			"boxState": "angry",
-			"expression": "RayAngry",
-			"text": "..."
+			"portrait": "opp"
 		},
 		{
+			"expression": "RayAngry",
+			"text": "...Okay, I'm only going to ask this once.",
+			"boxState": "normal",
 			"speed": 0.05,
-			"portrait": "opp",
-			"boxState": "angry",
-			"expression": "RayAngry",
-			"text": "I'm only going to ask this once."
+			"portrait": "opp"
 		},
 		{
+			"expression": "RayAngry",
+			"text": "Chrissy, Isabelle, what the HELL are you two doing here?!",
+			"boxState": "angry",
 			"speed": 0.05,
-			"portrait": "opp",
-			"boxState": "angry",
-			"expression": "RayAngry",
-			"text": "Chrissy, Isabelle, what the HELL are you two doing here?!"
+			"portrait": "opp"
 		},
 		{
+			"expression": "narrate",
+			"text": "(Lottie wisely decides to collect her things and vacate the premise.)",
+			"boxState": "normal",
 			"speed": 0.05,
-			"portrait": "opp",
-			"boxState": "angry",
-			"expression": "RayAngry",
-			"text": "Are you here to watch my career pummel into the ground as you LAUGH in my face?"
+			"portrait": "narrator"
 		},
 		{
+			"expression": "RayAngry",
+			"text": "Are you here to watch and laugh as my hopes and dreams crumble around me?",
+			"boxState": "angry",
 			"speed": 0.05,
-			"portrait": "opp",
-			"boxState": "angry",
-			"expression": "RayAngry",
-			"text": "Well, congratu-freaking-lations then!!"
+			"portrait": "opp"
 		},
 		{
+			"expression": "RayAngry",
+			"text": "Well, congratu-freaking-lations then!!",
+			"boxState": "angry",
 			"speed": 0.05,
-			"portrait": "opp",
-			"boxState": "angry",
-			"expression": "RayAngry",
-			"text": "No one else came to watch this show, are you happy now?"
+			"portrait": "opp"
 		},
 		{
+			"expression": "RayAngry",
+			"text": "No one else came to watch this show, none of the staff actually showed up...",
+			"boxState": "angry",
 			"speed": 0.05,
-			"portrait": "opp",
-			"boxState": "angry",
-			"expression": "RayAngry",
-			"text": "First, Chrissy's break up, and now you bring this...lickspittle to mock me?"
+			"portrait": "opp"
 		},
 		{
+			"expression": "RayAngry",
+			"text": "Not to mention I'm losing my marbles trying to scrounge together the funds to pay for this fancy set!",
+			"boxState": "angry",
 			"speed": 0.05,
-			"portrait": "opp",
-			"boxState": "angry",
-			"expression": "RayAngry",
-			"text": "Well then, if that's how it is, I'm not having ANY of it."
+			"portrait": "opp"
 		},
 		{
+			"expression": "RalSad",
+			"text": "(Umm...)",
+			"boxState": "normal",
 			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "angry",
-			"expression": "RayAngry",
-			"text": "YOU! The green goblin, SPEAK!"
+			"portrait": "right"
 		},
 		{
+			"expression": "RayAngry",
+			"text": "So, yeah. Thanks for your undying support, Chrissy! I really owe you one!",
+			"boxState": "normal",
 			"speed": 0.05,
-			"portrait": "opp",
-			"boxState": "angry",
-			"expression": "RayAngry",
-			"text": "Or are you just like that mime with dog ears over there?!"
+			"portrait": "opp"
 		},
 		{
-			"speed": 0.55,
-			"portrait": "right",
+			"expression": "RayAngry",
+			"text": "Because, GUESS WHAT!?!",
 			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "opp"
+		},
+		{
+			"expression": "RayAngry",
+			"text": "It’s ALL thanks to YOU that I am where I am now!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "opp"
+		},
+		{
+			"expression": "RayAngry",
+			"text": "Back at the BOTTOM of the ladder I made for myself",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "opp"
+		},
+		{
+			"expression": "RayAngry",
+			"text": "Now just get out of here, I thought I already broke up with you.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "opp"
+		},
+		{
+			"expression": "narrate",
+			"text": "(Chrissy leaves the room in huff, tears of both anger and sadness streaming down her face.)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "narrate",
+			"text": "(Sadness for Raymond, who indeed suffered from one of her past mistakes.)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "narrate",
+			"text": "(And anger towards herself for thinking her support would make him feel any better.)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "RayAngry",
+			"text": "Now, YOU, the green goblin!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "opp"
+		},
+		{
+			"expression": "RayAngry",
+			"text": "SAY SOMETHING!!!",
+			"boxState": "angry",
+			"speed": 0.15,
+			"portrait": "opp"
+		},
+		{
+			"expression": "RayAngry",
+			"text": "Or are you just like that mime of a dog?!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "opp"
+		},
+		{
 			"expression": "IzzCelD",
-			"text": "(...)"
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.55,
+			"portrait": "right"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "right",
-			"boxState": "angry",
 			"expression": "RalCelSad",
-			"text": "(...)"
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.25,
+			"portrait": "right"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "right",
-			"boxState": "angry",
-			"expression": "narrator",
-			"text": "(Raymonds's words hurt Chrissy to the degree she left the room in tears...)"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "opp",
-			"boxState": "angry",
 			"expression": "RayAngry",
-			"text": "Yeah, go away then!! I don't NEED you!"
+			"text": "Whatever. I was going easy on you before, but this next song...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "opp"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "opp",
-			"boxState": "angry",
 			"expression": "RayAngry",
-			"text": "I was going easy on you those first two songs, but now..."
-		},
-		{
+			"text": "...You may as well consider it your requiem.",
+			"boxState": "normal",
 			"speed": 0.05,
-			"portrait": "opp",
-			"boxState": "angry",
-			"expression": "RayAngry",
-			"text": "...You better start writing a requiem for what's to come!!"
+			"portrait": "opp"
 		}
 	]
 }
