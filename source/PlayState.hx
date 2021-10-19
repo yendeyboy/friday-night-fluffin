@@ -321,7 +321,7 @@ class PlayState extends MusicBeatState
 					curStage = 'space';
 				case 'dreamland':
 					curStage = 'space2';
-				case 'catnip' | 'catall':
+				case 'catnip' | 'catcall':
 					curStage = 'dreams';
 				case 'catastrophe':
 					curStage = 'dreams2';

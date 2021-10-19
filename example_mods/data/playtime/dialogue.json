@@ -12,7 +12,7 @@
 			"portrait": "opp",
 			"boxState": "angry",
 			"expression": "HatKid",
-			"text": "We really just, went through that?"
+			"text": "Did we make those sounds…with our mouths?"
 		},
 		{
 			"speed": 0.05,
@@ -54,7 +54,7 @@
 			"portrait": "right",
 			"boxState": "angry",
 			"expression": "IzzCel",
-			"text": "--Even if we just got teleported against our will and we are basically kidnapped--"
+			"text": "--Considering we just got teleported here against our will and were basically kidnapped--"
 		},
 		{
 			"speed": 0.05,
@@ -75,7 +75,7 @@
 			"portrait": "right",
 			"boxState": "angry",
 			"expression": "IzzCel",
-			"text": "--...It seems we are on outer space with these two, I can see many stars from that window--"
+			"text": "--...The stars seem to shine a lot brighter from outer space--"
 		},
 		{
 			"speed": 0.05,
@@ -89,7 +89,7 @@
 			"portrait": "right",
 			"boxState": "angry",
 			"expression": "RalCel",
-			"text": "--Really? How does it look li..?--"
+			"text": "Really? You probably shouldn’t stare at it for too…"
 		},
 		{
 			"speed": 0.05,
@@ -103,7 +103,7 @@
 			"portrait": "right",
 			"boxState": "angry",
 			"expression": "Niko",
-			"text": "Hey...hey mister!"
+			"text": "Hey...hey mister?!"
 		},
 		{
 			"speed": 0.05,
@@ -152,7 +152,7 @@
 			"portrait": "right",
 			"boxState": "angry",
 			"expression": "RalWat",
-			"text": "(YOU ARE THE ONES COMING FROM OUTER SPACE!!)"
+			"text": "(Green ali-? YOU’RE THE ONES COMING FROM OUTER SPACE!!)"
 		}
 	]
 }

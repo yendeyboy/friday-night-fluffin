@@ -57,11 +57,18 @@
 			"text": "At least the colors look kinda cool in this place, Oooh, time loop colors."
 		},
 		{
+			"speed": 0.15,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "HatKid",
+			"text": ". . ."
+		},
+		{
 			"speed": 0.05,
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "HatKid",
-			"text": "...The FAKE kind! These are just party lights!"
+			"text": "...The FAKE kind! These are just party lights! Get pranked!"
 		},
 		{
 			"speed": 0.05,
@@ -81,8 +88,15 @@
 			"speed": 0.25,
 			"portrait": "right",
 			"boxState": "normal",
+			"expression": "IzzCel",
+			"text": ":)"
+		},
+		{
+			"speed": 0.25,
+			"portrait": "right",
+			"boxState": "normal",
 			"expression": "RalWat",
-			"text": "..."
+			"text": "(Am I dead yet?)"
 		},
 		{
 			"speed": 0.05,
@@ -103,14 +117,14 @@
 			"portrait": "right",
 			"boxState": "normal",
 			"expression": "IzzCel",
-			"text": "--I will admit, that was a good one!--"
+			"text": "--Wow, I will admit, that was a good one!--"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "right",
 			"boxState": "normal",
 			"expression": "RalWat",
-			"text": "--You are not mad about this??--"
+			"text": "--You are not mad about that??--"
 		},
 		{
 			"speed": 0.05,
@@ -131,14 +145,14 @@
 			"portrait": "right",
 			"boxState": "normal",
 			"expression": "RalCel",
-			"text": "--Oh, well maybe, it can be fun!--"
+			"text": "--Oh, well, maybe they can be fun!-- -"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "right",
 			"boxState": "normal",
 			"expression": "RalCelSad",
-			"text": "--As long as you don't scare me--"
+			"text": "--As long as they don’t scare me like that--"
 		},
 		{
 			"speed": 0.05,

@@ -33,7 +33,7 @@ class CreditsState extends MusicBeatState
 		['Ditchu',		'ditchu',		'1st Sprite Artist of \nFriday Night Fluffin',					'https://twitter.com/DitchuArt',	0xFFd771ad],
 		['Sodatax',		'sodatax',		'2nd Muscian of \nFriday Night Fluffin',					'https://twitter.com/sodatax1',	0xFF9400D3],
         ['Sylrica',		'sylrica',		'3rd Muscian of \nFriday Night Fluffin',					'',	0xFFff006f],
-		['Murasaki',			'murasaki',		'2nd Programmer of \nFriday Night Fluffin',				'https://www.twitch.tv/fvgf811',		0xFFFF69B4],
+		['Murasaki',			'murasaki',		'2nd Programmer of \nFriday Night Fluffin',				'https://twitter.com/Murasaki_1514',		0xFFFF69B4],
 		['FoodieMellow',		'foodiemellow',		'BG Artist of \nFriday Night Fluffin',					'https://twitter.com/AishkoHere',	0xFF7fffd4],
 		['VoltBox',		'voltbox',		'2nd Sprite Artist of \nFriday Night Fluffin',					'https://twitter.com/ArtVoltBox',	0xFF00FF00],
 		['YendeyBoy',		'yendey',		'3rd Programmer of \nFriday Night Fluffin',					'https://twitter.com/Yendeyboi',		0xFFFF6010],

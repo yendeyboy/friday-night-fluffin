@@ -19,7 +19,7 @@
 			"portrait": "right",
 			"boxState": "normal",
 			"expression": "RalStars",
-			"text": "(It's like I'm there!)"
+			"text": "(It's like I'm ACTUALLY there!)"
 		},
 		{
 			"speed": 0.55,
@@ -40,7 +40,7 @@
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "Ray",
-			"text": "I'm Raymond, your host! We have a lot of surprises tonight."
+			"text": "I'm Raymond, your host! Any BOY do we have some surprises in store for you tonight."
 		},
 		{
 			"speed": 0.05,
@@ -61,21 +61,36 @@
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "Ray",
-			"text": "...Now everyone's puking endlessly!"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "right",
-			"boxState": "normal",
-			"expression": "RalWat",
-			"text": "(Why is he so enthusiastic about that??)"
+			"text": "...Now the whole crew and guest stars are puking endlessly!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "Ray",
-			"text": "Alas, we are changing plans, behold!"
+			"text": "Except for our cameraman, Lottie…"
+		},
+                {
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "RalWat",
+			"text": "(Haha, that’s actually…not good…)"
+		},
+		{
+                
+			"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "Ray",
+			"text": "Lottie, don’t wave, no one can see you. Sheesh..."
+                
+		},
+		{	"speed": 0.05,
+			"portrait": "opp",
+			"boxState": "normal",
+			"expression": "Ray",
+			"text": "Anyway, we have a change of plans. Behold!"
 		},
 		{
 			"speed": 0.05,
@@ -89,7 +104,7 @@
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "Ray",
-			"text": "Please welcome our (Totally not improvised) guest..."
+			"text": "Please welcome our (totally legitimate) guest star..."
 		},
 		{
 			"speed": 0.05,
@@ -103,14 +118,14 @@
 			"portrait": "right",
 			"boxState": "normal",
 			"expression": "RalWat",
-			"text": "(Panic? Check, wishes to randomly explode? Check... )"
+			"text": "(I wish I hadn’t eaten that pot pie.) "
 		},
 		{
 			"speed": 0.05,
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "Ray",
-			"text": "You are a quiet one, aren't you?"
+			"text": "You are a quiet one, huh?"
 		},
 		{
 			"speed": 0.05,
@@ -124,42 +139,42 @@
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "Ray",
-			"text": "Being ridiculed in front of our growing 40,000 spectators?"
+			"text": "It isn’t like there are 40,000 people watching you, waiting for you to mess up so they can turn you into the laughingstock of the generation?"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "Ray",
-			"text": "Oh, 50,000 now!"
+			"text": "There are actually 50,000"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "Ray",
-			"text": "(The audience counter is just a backwars calculator)"
+			"text": "(The audience counter is just an upside down calculator)"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "Ray",
-			"text": "(It seems to be stuck on the number ''3'')"
+			"text": "Lottie is trying but failing to get the number any higher than three...)"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "Ray",
-			"text": "Just sing anything you like! If you suck, well..."
+			"text": "Just sing anything you like! Even if you suck, well..."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "Ray",
-			"text": "...At least you'll help my career grow! Isn't that great?"
+			"text": "...At least you get to be a pebble in my growing pathway to fame! What an honor, eh?"
 		}
 	]
 }

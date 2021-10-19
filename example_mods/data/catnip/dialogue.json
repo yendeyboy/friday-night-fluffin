@@ -16,52 +16,52 @@
 		},
 		{
 			"speed": 0.05,
-			"portrait": "opp",
-			"boxState": "angry",
-			"expression": "Narrator",
-			"text": "(The audience consisted of poorly drawn Raymond cardboard cutouts)"
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "narrate",
+			"text": "(The studio audience consists of at least seventeen poorly-drawn cutouts of Raymond...)"
 		},
 		{
 			"speed": 0.05,
-			"portrait": "opp",
-			"boxState": "angry",
-			"expression": "Narrator",
-			"text": "(...And Chrissy, who is drinking juice from a Raymond shaped cup)"
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "narrate",
+			"text": "(...Lottie, who’s looking pretty proud of herself after remembering to play the 'applause' track...)"
 		},
 		{
 			"speed": 0.05,
-			"portrait": "right",
-			"boxState": "angry",
-			"expression": "RalWat",
-			"text": "(How did I get in this situation, again?)"
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "narrate",
+			"text": "(...though she's unknowingly let the calculator fall into the negatives…somehow...)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "narrate",
+			"text": "(...And Chrissy, who has just finished drinking apple juice from a Raymond-shaped cup.)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "narrate",
+			"text": "(She crumples it up and throws it into a trashcan halfway across the room.)"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "opp",
 			"boxState": "angry",
 			"expression": "Ray",
-			"text": "I bet everyone's roaring for more, let's do one more, I say!"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "opp",
-			"boxState": "angry",
-			"expression": "Ray",
-			"text": "All after this commercial break, another battle of wits against the alien boy!"
+			"text": "I hope your name doesn’t start with an L, ya green alien thing! I’m gonna go chug a can of water."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "right",
-			"boxState": "angry",
-			"expression": "RalWat",
-			"text": "(I'M NOT AN ALIEN!!) "
-		},
-		{
-			"speed": 0.05,
-			"portrait": "right",
-			"boxState": "angry",
+			"boxState": "normal",
 			"expression": "RalSad",
-			"text": "(Am I really...that weird looking to the people in this world...?)"
+			"text": "(Jeez, maybe I was a bit too optimistic about my chances of fitting in.)"
 		},
 		{
 			"speed": 0.05,
@@ -73,93 +73,93 @@
 		{
 			"speed": 0.05,
 			"portrait": "right",
-			"boxState": "angry",
+			"boxState": "normal",
 			"expression": "RalCelSad",
 			"text": "(...Huh?) "
 		},
 		{
 			"speed": 0.05,
 			"portrait": "right",
-			"boxState": "angry",
+			"boxState": "normal",
 			"expression": "IzzCel",
 			"text": "--Don't listen to that dumb cat, fluffy heaven~--"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "right",
-			"boxState": "angry",
+			"boxState": "normal",
 			"expression": "IzzCel",
-			"text": "--Raymond is always rude when someone rivals his skill-- "
+			"text": "--Raymond’s rude to everyone he perceives as threat--"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "right",
-			"boxState": "angry",
+			"boxState": "normal",
+			"expression": "IzzCel",
+			"text": "--Well...more rude than usual :P--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
 			"expression": "RalCelB3",
-			"text": "--Oh, hello, it's you!...--"
+			"text": "--Thanks, honestly I wouldn’t have gotten a single note out if you weren’t here---"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "right",
-			"boxState": "angry",
+			"boxState": "normal",
 			"expression": "RalCelB3",
-			"text": "--...--"
+			"text": "--But at the same time, I could still screw everything up at a moment's notice.--"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "right",
-			"boxState": "angry",
-			"expression": "RalCelB1",
-			"text": "--''F-Fluffy h...heaven?''--"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "right",
-			"boxState": "angry",
+			"boxState": "normal",
 			"expression": "IzzCelB2",
-			"text": "--Teehee :3c--"
+			"text": "--Well, I’m not too great at giving advice, but I know this much…--"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "right",
-			"boxState": "angry",
-			"expression": "IzzCel",
-			"text": "--You are doing great! Don't worry your little head about it--"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "right",
-			"boxState": "angry",
-			"expression": "IzzCelB",
-			"text": "--Honestly, I already fell for you before, but...--"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "right",
-			"boxState": "angry",
-			"expression": "IzzCelB",
-			"text": "--Hearing you sing, it makes me really, really happy-- "
-		},
-		{
-			"speed": 0.05,
-			"portrait": "right",
-			"boxState": "angry",
+			"boxState": "normal",
 			"expression": "RalCelB3",
 			"text": "--Oh...--"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "right",
-			"boxState": "angry",
+			"boxState": "normal",
 			"expression": "RalCelB3",
 			"text": "--T-then..."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "right",
-			"boxState": "angry",
+			"boxState": "normal",
 			"expression": "RalCelB3",
 			"text": "--...Consider this next song for you!--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "RalCelB3",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "RalCelB1",
+			"text": "--''F-Fluffy h...heaven?” 0-0--"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "right",
+			"boxState": "normal",
+			"expression": "IzzCelB2",
+			"text": "--Teehee :3c--"
 		},
 		{
 			"speed": 0.05,

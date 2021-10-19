@@ -1,5 +1,5 @@
 {
-	"storyName": "Your New Week",
+	"storyName": "N/HK - The lost space",
 	"hideFreeplay": false,
 	"weekBackground": "stage2",
 	"weekBefore": "tutorial",
@@ -17,7 +17,7 @@
 	"songs": [
 		[
 			"pancakes",
-			"NHK",
+			"nhk",
 			[
 				146,
 				233,
@@ -26,7 +26,7 @@
 		],
 		[
 			"playtime",
-			"NHK",
+			"nhk",
 			[
 				146,
 				233,

@@ -5,17 +5,17 @@
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "HatKid",
-			"text": "Now, crouch, Niko."
+			"text": "Now, crouch down, Niko."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "Niko",
-			"text": "Huh? Why do you ask me to-"
+			"text": "Huh? Why are you asking me to-"
 		},
 		{
-			"speed": 0.65,
+			"speed": 0.25,
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "NikoWat",
@@ -26,14 +26,14 @@
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "NikoWat",
-			"text": "Why am I giving you a piggy back, again?"
+			"text": "Ok, explain to me why I’m giving you a piggy back, again?"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "Hatkid",
-			"text": "The view is nice from here"
+			"text": "The view is nice from up here!"
 		},
 		{
 			"speed": 0.05,
@@ -47,14 +47,14 @@
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "HatKid",
-			"text": "I want to feel tall for once!!"
+			"text": "Not everyone’s as tall as you, Niko!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "HatKid",
-			"text": "...And I only have one mic, so we'll have to share"
+			"text": "...Plus it’s like the second-most convenient way to share a mic."
 		},
 		{
 			"speed": 0.05,
@@ -117,7 +117,7 @@
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "HatKid",
-			"text": "SHUSH!! I'M TOO BUSY BLASTING BAD GUYS FOR THAT!"
+			"text": "CALM DOWN!! I’M GOOD AT WINNING, THAT’S MORE THAN ENOUGH REASON TO CALL A DUEL!!"
 		},
 		{
 			"speed": 0.05,
@@ -131,7 +131,7 @@
 			"portrait": "right",
 			"boxState": "normal",
 			"expression": "RalHapp",
-			"text": "(But they are good kids, this doesn't look like a dangerous situation, like SOME cats)"
+			"text": "(But they seem like good kids. Hopefully this won’t end up like last week’s catastrophe)"
 		},
 		{
 			"speed": 0.05,
@@ -179,15 +179,15 @@
 			"speed": 0.05,
 			"portrait": "opp",
 			"boxState": "normal",
-			"expression": "RalHapp",
-			"text": "Well, you caught me there!"
+			"expression": "NikoHapp",
+			"text": "Yea no thanks."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "RalStars",
-			"text": "(Teaching them? They want to learn...from me?)"
+			"text": "(Teach them? They really want to learn...from me?)"
 		},
 		{
 			"speed": 0.05,
@@ -201,7 +201,7 @@
 			"portrait": "opp",
 			"boxState": "normal",
 			"expression": "RalHapp",
-			"text": "(Alright, repeat after me! Aand 1..2..3..!)"
+			"text": "(Alright, repeat after me!)"
 		}
 	]
 }

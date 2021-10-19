@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		0,
+		0
+	],
+	"scale": 2.7,
+	"animations": [
+		{
+			"loop_name": "marratpr",
+			"idle_offsets": [
+				-50,
+				-200
+			],
+			"idle_name": "narrator",
+			"anim": "narrate",
+			"loop_offsets": [
+				-50,
+				-200
+			]
+		}
+	],
+	"image": "MSN"
+}

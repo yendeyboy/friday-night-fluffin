@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf8"?>
+<TextureAtlas imagePath="MSN.png">
+	<!--Created with Sprite Cow and Mura's Hands // Totally not a reference to certain xml file -->
+
+    <SubTexture name="narrator" x="0" y="0" width="145" height="120"/>
+
+</TextureAtlas>

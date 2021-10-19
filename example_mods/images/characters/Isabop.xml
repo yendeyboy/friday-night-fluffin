@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Isabop.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="isabelles_box1.png" x="5" y="5" width="104" height="107"/>
+	<SubTexture name="isabelles_box2.png" x="5" y="5" width="104" height="107"/>
+	<SubTexture name="isabelles_box3.png" x="119" y="5" width="104" height="107"/>
+	<SubTexture name="isabelles_box4.png" x="119" y="5" width="104" height="107"/>
+	<SubTexture name="isabelles_box5.png" x="233" y="5" width="104" height="107"/>
+	<SubTexture name="isabelles_box6.png" x="233" y="5" width="104" height="107"/>
+	<SubTexture name="isabelles_box7.png" x="347" y="5" width="104" height="107"/>
+	<SubTexture name="isabelles_box8.png" x="347" y="5" width="104" height="107"/>
+	<SubTexture name="isabelles_box9.png" x="5" y="122" width="104" height="107"/>
+	<SubTexture name="isabelles_box10.png" x="5" y="122" width="104" height="107"/>
+	<SubTexture name="isabelles_box11.png" x="119" y="122" width="104" height="107"/>
+	<SubTexture name="isabelles_box12.png" x="119" y="122" width="104" height="107"/>
+	<SubTexture name="isabelles_box13.png" x="233" y="122" width="104" height="107"/>
+	<SubTexture name="isabelles_box14.png" x="233" y="122" width="104" height="107"/>
+	<SubTexture name="isabelles_box15.png" x="347" y="122" width="104" height="107"/>
+	<SubTexture name="isabelles_box16.png" x="347" y="122" width="104" height="107"/>
+	<SubTexture name="isabelles_box17.png" x="5" y="239" width="104" height="107"/>
+	<SubTexture name="isabelles_box18.png" x="5" y="239" width="104" height="107"/>
+</TextureAtlas>
