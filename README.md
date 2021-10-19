@@ -1,7 +1,6 @@
 ![logo](art/Fluffin_logo.png)
 # Source Code For a mod Called Friday Night Fluffin'!
 
-Check the exported mod [here]()
 Download the mod [here](https://gamebanana.com/mods/329139) if you don't want to compile the source code
 
 ## **Installation**
