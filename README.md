@@ -2,7 +2,7 @@
 # Source Code For a mod Called Friday Night Fluffin'!
 
 Check the exported mod [here]()
-Download the mod [here]() or [here]() if you don't want to compile the source code
+Download the mod [here](https://gamebanana.com/mods/329139) if you don't want to compile the source code
 
 ## **Installation**
 
