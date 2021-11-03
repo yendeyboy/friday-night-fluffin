@@ -23,7 +23,7 @@ class CreditsState extends MusicBeatState
 	private var grpOptions:FlxTypedGroup<Alphabet>;
 	private var iconArray:Array<AttachedSprite> = [];
 
-	private static var creditsStuff:Array<Dynamic> = [ //Name - Icon name - Description - Link - BG Color //weird ass black glitch need fixing
+	private static var creditsStuff:Array<Dynamic> = [ //Name - Icon name - Description - Link - BG Color 
 		['The Fluffin Team'],
 		['Sourcy',		'sourcy',		'Mod Lead of \nFriday Night Fluffin',					'https://twitter.com/SourceRabbit1',	0xFFFF0000],
 		['Grape',		'grape',		'Coding Lead of \nFriday Night Fluffin',					'https://twitter.com/HelloGrape_',	0xFFb19cd9],
